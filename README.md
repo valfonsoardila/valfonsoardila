@@ -23,13 +23,13 @@ I am a happy coder, I seek to spread to my environment how beautiful programming
 
 ## Official Education 👨🏻•🎓
 
-* 2018-Current | U.P.C Ingenieria de sistemas Universidad popular del cesar 
+* 2018-Current | U.P.C Systems Engineering Popular University of Cesar
 
 
-* 2017-2018 | Manejo de herramientas ofimaticas. SENA
+* 2017-2018    | Management of office tools. SENA
 
 
-* 2017-2018 | Mantenimiento de equipos decomputo SENA
+* 2017-2018    | Maintenance of computer equipment M.C.T SENA
 
 ### Languages and Tools 🔧:
 
