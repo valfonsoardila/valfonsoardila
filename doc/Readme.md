@@ -55,9 +55,15 @@ I have decided to create this document to capture all the extensions and tools t
     </td>
   </tr>
   <tr style="background: linear-gradient(to bottom, #616161, #4f4f4f);">
+    <td>Code Spell Checker</td>
+    <td><img src="https://github.com/VictorArdila/VictorArdila/assets/89551043/ad6ad021-e142-43af-a4c2-1f5fc5abe79d" alt="Descripción de la imagen" width="35" height="35"></td>
+    <td>A basic spell checker that works well with code and documents. The goal of this spell checker is to help catch common spelling errors while keeping the number of false positives low.
+    </td>
+  </tr>
+  <tr style="background: linear-gradient(to bottom, #616161, #4f4f4f);">
     <td>Path Intellisense</td>
     <td><img src="https://github.com/VictorArdila/VictorArdila/assets/89551043/ffea6d3c-b057-4dad-b7f3-6a9f105d1cfb" alt="Descripción de la imagen" width="35" height="35"></td>
-    <td>Visual Studio Code plugin that autocompletes filenames
+    <td>Visual Studio Code plugin that autocompletes filenames.
     </td>
   </tr>
    <tr style="background: linear-gradient(to bottom, #616161, #4f4f4f);">
