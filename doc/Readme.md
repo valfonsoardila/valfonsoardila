@@ -21,7 +21,7 @@ I have decided to create this document to capture all the extensions and tools t
   <tr style="background: linear-gradient(to bottom, #616161, #4f4f4f);">
     <td>Contenido 1</td>
     <td>Contenido 2</td>
-    <td style="border:1px">Contenido 3</td>
+    <td>Contenido 3</td>
   </tr>
   <tr style="background: linear-gradient(to bottom, #616161, #4f4f4f);">
     <td>Contenido 1</td>
