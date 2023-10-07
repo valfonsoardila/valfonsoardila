@@ -9,9 +9,9 @@ I have decided to create this document to capture all the extensions and tools t
 
 <table style="text-align: center;">
   <tr style="background: linear-gradient(to bottom, #128cc9, #0f8ac7, #037dbb);">
-    <td>Name</td>
-    <td>Image</td>
-    <td>Use</td>
+    <th>Name</th>
+    <th>Image</th>
+    <th>Use</th>
   </tr>
   <tr style="background: linear-gradient(to bottom, #616161, #4f4f4f);">
     <td>Auto Rename Tag</td>
@@ -21,7 +21,7 @@ I have decided to create this document to capture all the extensions and tools t
   <tr style="background: linear-gradient(to bottom, #616161, #4f4f4f);">
     <td>Contenido 1</td>
     <td>Contenido 2</td>
-    <td>Contenido 3</td>
+    <td style="border:1px">Contenido 3</td>
   </tr>
   <tr style="background: linear-gradient(to bottom, #616161, #4f4f4f);">
     <td>Contenido 1</td>
