@@ -50,7 +50,7 @@ I have decided to create this document to capture all the extensions and tools t
   </tr>
   <tr style="background: linear-gradient(to bottom, #616161, #4f4f4f);">
     <td>Code Runner</td>
-    <td><img src="https://github.com/VictorArdila/VictorArdila/assets/89551043/1530cd6d-d0f1-4e9a-b89b-2b910cbf59f8" alt="Descripción de la imagen" width="35" height="30"></td>
+    <td><img src="https://github.com/VictorArdila/VictorArdila/assets/89551043/1530cd6d-d0f1-4e9a-b89b-2b910cbf59f8" alt="Descripción de la imagen" width="25" height="50"></td>
     <td>Correr y ver resultados de un bloque de codigo en el backend
     </td>
   </tr>
