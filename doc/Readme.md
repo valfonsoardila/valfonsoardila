@@ -15,8 +15,8 @@ I have decided to create this document to capture all the extensions and tools t
   </tr>
   <tr style="background: linear-gradient(to bottom, #616161, #4f4f4f);">
     <td>Auto Rename Tag</td>
-    <td><img src="https://github.com/VictorArdila/VictorArdila/assets/89551043/cde4b690-f1df-4096-af86-2aef1bf4561b" alt="Descripción de la imagen" width="35" height="30" style="vertical-align: middle"></td>
-    <td>Contenido 3</td>
+    <td><img src="https://github.com/VictorArdila/VictorArdila/assets/89551043/cde4b690-f1df-4096-af86-2aef1bf4561b" alt="Descripción de la imagen" width="35" height="30"></td>
+    <td>Esta extension permite que mientras se codigfique pueda eliminar ele lemento tanto de apertura como de cierre</td>
   </tr>
   <tr style="background: linear-gradient(to bottom, #616161, #4f4f4f);">
     <td>Contenido 1</td>
