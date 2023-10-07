@@ -16,17 +16,17 @@ I have decided to create this document to capture all the extensions and tools t
   <tr style="background: linear-gradient(to bottom, #616161, #4f4f4f);">
     <td>Auto Rename Tag</td>
     <td><img src="https://github.com/VictorArdila/VictorArdila/assets/89551043/cde4b690-f1df-4096-af86-2aef1bf4561b" alt="Descripción de la imagen" width="35" height="30"></td>
-    <td>Esta permite que mientras se codifique pueda eliminar ele lemento tanto de apertura como de cierre.</td>
+    <td>This allows you to eliminate both opening and closing elements while coding.</td>
   </tr>
   <tr style="background: linear-gradient(to bottom, #616161, #4f4f4f);">
     <td>GitHub Copilot</td>
     <td><img src="https://github.com/VictorArdila/VictorArdila/assets/89551043/fc266851-a201-4525-8444-443c64db4e02" alt="Descripción de la imagen" width="35" height="30"></td>
-    <td>El mejor copiloto que tendrás para desarrollar como un asistente personal.</td>
+    <td>The best co-pilot you will have to develop as a personal assistant.</td>
   </tr>
   <tr style="background: linear-gradient(to bottom, #616161, #4f4f4f);">
     <td>Ayu theme</td>
     <td><img src="https://github.com/VictorArdila/VictorArdila/assets/89551043/5164359d-700f-46b3-a345-07bffb3b1255" alt="Descripción de la imagen" width="35" height="30"></td>
-    <td>Permite darle un estilo organizo, moderno y muy comodo al entorno de desarrollo como lo es VSCode con un tema oscuro.</td>
+    <td>It allows you to give an organized, modern and very comfortable style to the development environment such as VSCode with a dark theme.</td>
   </tr>
    <tr style="background: linear-gradient(to bottom, #616161, #4f4f4f);">
     <td>Live Server</td>
@@ -68,27 +68,27 @@ I have decided to create this document to capture all the extensions and tools t
   <tr style="background: linear-gradient(to bottom, #616161, #4f4f4f);">
     <td>Bracket Pair Color DLW</td>
     <td><img src="https://github.com/VictorArdila/VictorArdila/assets/89551043/8e40c9ce-0582-4bce-b26e-9cd155df3186" alt="Descripción de la imagen" width="35" height="30"></td>
-    <td>Permite identificar los corchetes coincidentes con colores. El usuario puede definir qué tokens combinar y qué colores usar.</td>
+    <td>Allows you to identify matching brackets with colors. The user can define which tokens to combine and which colors to use.</td>
   </tr>
   <tr style="background: linear-gradient(to bottom, #616161, #4f4f4f);">
     <td>Code GPT: Chat & AI Agents</td>
     <td><img src="https://github.com/VictorArdila/VictorArdila/assets/89551043/b14defdb-4a2f-4285-832e-4ecbc1da4e61" alt="Descripción de la imagen" width="35" height="30"></td>
-    <td>Obtenga sugerencias de código en tiempo real, directamente en su editor de texto utilizando la API oficial de OpenAI u otros proveedores de IA</td>
+    <td>Get code suggestions in real time, right in your text editor using the official OpenAI API or other AI providers</td>
   </tr>
   <tr style="background: linear-gradient(to bottom, #616161, #4f4f4f);">
     <td>Color Highlight</td>
     <td><img src="https://github.com/VictorArdila/VictorArdila/assets/89551043/92946427-1742-45ab-84b3-5f8cd46a2b4f" alt="Descripción de la imagen" width="35" height="30"></td>
-    <td>Permite identificar los corchetes coincidentes con colores. El usuario puede definir qué tokens combinar y qué colores usar.</td>
+    <td>Allows you to identify matching brackets with colors. The user can define which tokens to combine and which colors to use.</td>
   </tr>
   <tr style="background: linear-gradient(to bottom, #616161, #4f4f4f);">
     <td>Console Ninja</td>
     <td><img src="https://github.com/VictorArdila/VictorArdila/assets/89551043/4d5a8f59-eed2-44ac-9db4-0b20c8936d5f" alt="Descripción de la imagen" width="35" height="30"></td>
-    <td>Console Ninja es una extensión de VS Code que muestra erroresconsole.log de salida y de tiempo de ejecución directamente en su editor desde su navegador o aplicación de nodo en ejecución.</td>
+    <td>Console Ninja is a VS Code extension that displays console.log output and runtime errors directly in your editor from your browser or running node application.</td>
   </tr>
   <tr style="background: linear-gradient(to bottom, #616161, #4f4f4f);">
     <td>DotENV</td>
     <td><img src="https://github.com/VictorArdila/VictorArdila/assets/89551043/a68408bf-9c3c-4f32-b754-e5b021635da7" alt="Descripción de la imagen" width="30" height="30"></td>
-    <td>Permite manipular y entender lo que contiene los archivos .env que alamacenan valores globales de nuestra aplicacion.</td>
+    <td>It allows you to manipulate and understand what is contained in the .env files that store global values ​​of our application.</td>
   </tr>
   <tr style="background: linear-gradient(to bottom, #616161, #4f4f4f);">
     <td>Error Lens</td>
