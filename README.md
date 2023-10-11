@@ -6,8 +6,7 @@ Hi! my fullname is Victor Alfonso Ardila Montalban
 [![LinkedIn](https://badgen.net/badge/icon/linkedin?icon=linkedin&label=LinkedIn&color=blue)](https://www.linkedin.com/in/victor-ardila-31a94b230)
 [![Síguenos en Facebook](https://img.shields.io/badge/Facebook-S%C3%ADgueme-blue)](https://www.facebook.com/VictorArdila2002/)
 [![Mi Portafolio](https://badgen.net/badge/🌐Mi%20Portafolio/InnoByte/green)](https://portafolio-web-profesional.web.app/)
-![](https://komarev.com/ghpvc/?username=VictorArdila&style=flat-square)
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=victorardila.home)
+
 
 ### **Happy Codder😄**
 
