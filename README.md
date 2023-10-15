@@ -8,7 +8,7 @@ Hi! my fullname is Victor Alfonso Ardila Montalban
 [![Mi Portafolio](https://badgen.net/badge/🌐Mi%20Portafolio/InnoByte/green)](https://portafolio-web-profesional.web.app/)
 ![](https://komarev.com/ghpvc/?username=victorardila&style=flat-square)
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=victorardila.home)
-![Developer Program Member](https://img.shields.io/badge/dynamic/json?color=blue&label=Developer%20Program%20Member&query=%24.status&url=https%3A%2F%2Fapi.github.com%2Fusers%2FVictorArdila%2Fsettings%2Fdeveloper_program_member)
+![Developer Program Member](https://img.shields.io/badge/dynamic/jsoncolor=blue&label=Developer%20Program%20Member&query=%24.status&url=https%3A%2F%2Fapi.github.com%2Fusers%2F{VictorArdila}%2Fsettings%2Fdeveloper_program_member)
 
 ### **Happy Codder😄**
 
