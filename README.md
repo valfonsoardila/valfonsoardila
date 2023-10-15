@@ -8,7 +8,6 @@ Hi! my fullname is Victor Alfonso Ardila Montalban
 [![Mi Portafolio](https://badgen.net/badge/🌐Mi%20Portafolio/InnoByte/green)](https://portafolio-web-profesional.web.app/)
 ![](https://komarev.com/ghpvc/?username=victorardila&style=flat-square)
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=victorardila.home)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=victorardila.visitor-badge)
 
 ### **Happy Codder😄**
 
