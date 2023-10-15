@@ -9,7 +9,7 @@ Hi! my fullname is Victor Alfonso Ardila Montalban
 ![](https://komarev.com/ghpvc/?username=victorardila&style=flat-square)
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=victorardila.home)
 ![Visitor Count](https://profile-counter.glitch.me/victorardila/count.svg)
-
+![Visitor Count](https://profile-counter.glitch.me/victorardila/count.svg?style=flat-square&color=green&labelColor=white)
 ### **Happy Codder😄**
 
 ## ​**Software Developer** 
