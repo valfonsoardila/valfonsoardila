@@ -35,7 +35,7 @@ I am a happy coder, I seek to spread to my environment how beautiful programming
 
 ### Languages and Tools 🔧:
 
-![React](https://img.shields.io/badge/⚛️React-16.14.0-blue)
+![React](https://img.shields.io/badge/⚛️React-18.2.0-blue)
 ![React Native](https://img.shields.io/badge/📱React%20Native-0.64.3-blue)
 ![Python](https://img.shields.io/badge/🐍Python-3.9.7-yellow)
 ![PyQt](https://img.shields.io/badge/🎨PyQt-5.15.4-green)
