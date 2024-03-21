@@ -149,3 +149,39 @@ I have decided to create this document to capture all the extensions and tools t
     <td>This extension adds language colorization support for the Jinja template language to VS Code.</td>
   </tr>
 </table>
+
+## Git Flow
+
+Para trabajar con el esquema de mis repositorios lo trabajo asi: 
+Inicializa git
+```bash
+git init
+```
+Agrego los cambios locales
+```bash
+git add .
+```
+Hago el commit
+```bash
+git commit -m "Creacion de estructura inicial"
+```
+Creo la rama dev
+```bash
+git branch dev
+```
+Reviso que se hay creado correctamente
+```bash
+git branch 
+```
+Selecciono la rama dev que ya fue creada
+```bash
+git checkout dev
+```
+Le asigno al repo local la url del repo remoto para sincronizarlo
+```bash
+git remote add link.git
+```
+Envio los cambios
+```bash
+git push origin dev
+```
