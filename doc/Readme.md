@@ -166,9 +166,9 @@ Hago el commit
 ```bash
 git commit -m "Creacion de estructura inicial"
 ```
-Creo la rama dev
+Creo la rama 
 ```bash
-git branch dev
+git branch nombre
 ```
 Reviso que se hay creado correctamente
 ```bash
@@ -176,7 +176,7 @@ git branch
 ```
 Selecciono la rama dev que ya fue creada
 ```bash
-git checkout dev
+git checkout nombre
 ```
 Le asigno al repo local la url del repo remoto para sincronizarlo
 ```bash
@@ -184,5 +184,5 @@ git remote add link.git
 ```
 Envio los cambios
 ```bash
-git push origin dev
+git push origin nombre
 ```
