@@ -153,6 +153,7 @@ I have decided to create this document to capture all the extensions and tools t
 ## Git Flow
 
 Para trabajar con el esquema de mis repositorios lo trabajo asi: 
+
 Inicializa git
 ```bash
 git init
