@@ -190,3 +190,9 @@ git push origin nombre
 ```bash
 git rm -r --cached __pycache__
 ```
+```bash
+git commit -m "Eliminando __pycache__ del repositorio remoto"
+```
+```bash
+git push origin nombre_de_tu_rama
+```
