@@ -150,10 +150,9 @@ I have decided to create this document to capture all the extensions and tools t
   </tr>
 </table>
 
-## Git Flow
-
+# Git Flow
 Para trabajar con el esquema de mis repositorios lo trabajo asi: 
-
+`Cambiar nombre de ramas al iniciar proyecto`
 Inicializa git
 ```bash
 git init
@@ -185,4 +184,9 @@ git remote add link.git
 Envio los cambios
 ```bash
 git push origin nombre
+```
+
+`Para eliminar un archivo en el repo remoto`
+```bash
+git rm -r --cached __pycache__
 ```
