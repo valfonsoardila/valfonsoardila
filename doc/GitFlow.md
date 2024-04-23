@@ -44,3 +44,15 @@ git commit -m "Eliminando __pycache__ del repositorio remoto"
 ```bash
 git push origin nombre_de_tu_rama
 ```
+```bash
+git branch -m doc dev
+```
+```bash
+git fetch origin
+```
+```bash
+git branch -u origin/dev dev
+```
+```bash
+git remote set-head origin -a
+```
