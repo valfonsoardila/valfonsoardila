@@ -44,6 +44,8 @@ git commit -m "Eliminando __pycache__ del repositorio remoto"
 ```bash
 git push origin nombre_de_tu_rama
 ```
+`Cambiar nombre de una rama que se renombro remotamente`
+Comandos para ela operacion
 ```bash
 git branch -m doc dev
 ```
